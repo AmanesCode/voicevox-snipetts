@@ -1,0 +1,7 @@
+{
+  "_PARTITIONTIME": {
+    "prefix": "voicevox-",
+    "body": ["_PARTITIONTIME"],
+    "description": "BigQueryのパーティション"
+  }
+}
