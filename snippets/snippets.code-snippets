@@ -5,17 +5,17 @@
     "description": "音声オプション(ノーマル)"
   },
   "音声オプション(あまあま)":{
-    "prefix": ["voicevox-音声オプション(あまあま)","voicevox-voice-option-amama",]
+    "prefix": ["voicevox-音声オプション(あまあま)","voicevox-voice-option-amaama",]
     "body": ["あまあま"],
     "description": "音声オプション(あまあま)"
   },
   "音声オプション(ささやき)": {
-    "prefix": ["voicevox-音声オプション(ささやき","voicevox-voice-option-sasayaki",]
+    "prefix": ["voicevox-音声オプション(ささやき)","voicevox-voice-option-sasayaki",]
     "body": ["ささやき"],
     "description": "音声オプション(ささやき)"
   },
   "音声オプション(ツンツン)": {
-    "prefix": ["voicevox-音声オプション(ツンツン)","voicevox-voice-option-tunntun"]
+    "prefix": ["voicevox-音声オプション(ツンツン)","voicevox-voice-option-tuntun"]
     "body": ["ツンツン"],
     "description": "音声オプション(ツンツン)"
   },
