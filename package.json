@@ -16,5 +16,12 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
-  }
+  },
+  "publisher": "AmanesCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmanesCode/voicevox-snippets.git"
+  },
+  "licence": "MIT",
+  "icon": "icon/icon.jpg"
 }
