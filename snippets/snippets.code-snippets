@@ -85,7 +85,7 @@
     "description": "もち子さん"
   },
   "剣崎雌雄": {
-    "prefix": ["voicevox-剣崎雌雄","kennzaki-mesuo",]
+    "prefix": ["voicevox-剣崎雌雄","kenzaki-mesuo",]
     "body": "剣崎雌雄,",
     "description": "剣崎雌雄"
   },
@@ -100,7 +100,7 @@
     "description": "後鬼"
   },
   "No.7": {
-    "prefix": ["voicevox-No.7","number7","nannba-sebun",]
+    "prefix": ["voicevox-No.7","number7","nanba-sebun",]
     "body": "No.7${1:option},",
     "description": "No.7"
   },
@@ -170,7 +170,7 @@
     "description": "あいえるたん"
   },
   "満別花丸": {
-    "prefix": ["voicevox-満別花丸","mannbetsu-hanamaru",]
+    "prefix": ["voicevox-満別花丸","manbetsu-hanamaru",]
     "body": "満別花丸${1:option},",
     "description": "満別花丸"
   },
