@@ -1,7 +1,182 @@
 {
-  "_PARTITIONTIME": {
-    "prefix": "voicevox-",
-    "body": ["_PARTITIONTIME"],
-    "description": "BigQueryのパーティション"
-  }
+  "音声オプション(ノーマル)": {
+    "prefix": ["voicevox-音声オプション(ノーマル)","voicevox-voice-option-normal","no-maru",]
+    "body": ["ノーマル"],
+    "description": "音声オプション(ノーマル)"
+  },
+  "音声オプション(あまあま)":{
+    "prefix": ["voicevox-音声オプション(あまあま)","voicevox-voice-option-amama",]
+    "body": ["あまあま"],
+    "description": "音声オプション(あまあま)"
+  },
+  "音声オプション(ささやき)": {
+    "prefix": ["voicevox-音声オプション(ささやき","voicevox-voice-option-sasayaki",]
+    "body": ["ささやき"],
+    "description": "音声オプション(ささやき)"
+  },
+  "音声オプション(ツンツン)": {
+    "prefix": ["voicevox-音声オプション(ツンツン)","voicevox-voice-option-tunntun"]
+    "body": ["ツンツン"],
+    "description": "音声オプション(ツンツン)"
+  },
+  "音声オプション(セクシー)": {
+    "prefix": ["voicevox-音声オプション(セクシー)","voicevox-voice-option-sexy","sekusi-",]
+    "body": ["セクシー"],
+    "description": "音声オプション(セクシー)"
+  },
+  "音声オプション(ヒソヒソ)": {
+    "prefix": ["voicevox-音声オプション(ヒソヒソ)","voicevox-voice-option-hisohiso",]
+    "body": ["ヒソヒソ"],
+    "description": "音声オプション(ヒソヒソ)"
+  },
+  "四国めたん": {
+    "prefix": ["voicevox-四国めたん","shikoku-metan",]
+    "body": "四国めたん${1:option},",
+    "description": "四国めたん"
+  },
+  "ずんだもん": {
+    "prefix": ["voicevox-ずんだもん","zundamon",]
+    "body": "ずんだもん${1:option},",
+    "description": "ずんだもん"
+  },
+    "春日部つむぎ": {
+    "prefix": ["voicevox-春日部つむぎ","kasukabe-tumugi",]
+    "body": "春日部つむぎ,",
+    "description": "春日部つむぎ"
+  },
+  "雨晴はう": {
+    "prefix": ["voicevox-雨晴はう","amehare-hau",]
+    "body": "雨晴はう,",
+    "description": "雨晴はう"
+  },
+  "波音リツ": {
+    "prefix": ["voicevox-波音リツ","namine-ritu",]
+    "body": "波音リツ${1:option},",
+    "description": "波音リツ"
+  },
+  "玄野武宏": {
+    "prefix": ["voicevox-玄野武宏","kurono-takehiro",]
+    "body": "玄野武宏${1:option},",
+    "description": "玄野武宏"
+  },
+  "白上虎太郎": {
+    "prefix": ["voicevox-白上虎太郎","shirakami-kotarou",]
+    "body": "白上虎太郎${1:option},",
+    "description": "白上虎太郎"
+  },
+  "青山龍星": {
+    "prefix": ["voicevox-青山龍星","aoyama-ryuusei",]
+    "body": "青山龍星,",
+    "description": "青山龍星"
+  },
+  "冥鳴ひまり": {
+    "prefix": ["voicevox-冥鳴ひまり","meimei-himari",]
+    "body": "冥鳴ひまり,",
+    "description": "冥鳴ひまり"
+  },
+  "九州そら": {
+    "prefix": ["voicevox-九州そら","kyuusyuu-sora",]
+    "body": "九州そら${1:option},",
+    "description": "九州そら"
+  },
+  "もち子さん": {
+    "prefix": ["voicevox-もち子さん","motiko-san",]
+    "body": "もち子さん${1:option},",
+    "description": "もち子さん"
+  },
+  "剣崎雌雄": {
+    "prefix": ["voicevox-剣崎雌雄","kennzaki-mesuo",]
+    "body": "剣崎雌雄,",
+    "description": "剣崎雌雄"
+  },
+  "WhiteCUL": {
+    "prefix": ["voicevox-WhiteCUL","whitecul","howaitokaru",]
+    "body": "WhiteCUL${1:option},",
+    "description": "WhiteCUL"
+  },
+  "後鬼": {
+    "prefix": ["voicevox-後鬼","goki",]
+    "body": "後鬼${1:option},",
+    "description": "後鬼"
+  },
+  "No.7": {
+    "prefix": ["voicevox-No.7","number7","nannba-sebun",]
+    "body": "No.7${1:option},",
+    "description": "No.7"
+  },
+  "ちび式じい": {
+    "prefix": ["voicevox-ちび式じい","tibisiki-zii",]
+    "body": "ちび式じい,",
+    "description": "ちび式じい"
+  },
+  "櫻歌ミコ": {
+    "prefix": ["voicevox-櫻歌ミコ","ouka-miko",]
+    "body": "櫻歌ミコ${1:option},",
+    "description": "櫻歌ミコ"
+  },
+  "小夜/SAYO": {
+    "prefix": ["voicevox-小夜/SAYO","sayo",]
+    "body": "小夜/SAYO,",
+    "description": "小夜/SAYO"
+  },
+  "ナースロボ_タイプT": {
+    "prefix": ["voicevox-ナースロボ_タイプT","nurse-robot-type-t","na-surobo_taipu_t",]
+    "body": "ナースロボ＿タイプＴ${1:option},",
+    "description": "ナースロボ＿タイプＴ"
+  },
+  "†聖騎士 紅桜†": {
+    "prefix": ["voicevox-†聖騎士 紅桜†","ho-ri-naito-benizakura",]
+    "body": "†聖騎士 紅桜†,",
+    "description": "†聖騎士 紅桜†"
+  },
+  "雀松朱司": {
+    "prefix": ["voicevox-雀松朱司","wakamatu-akasi",]
+    "body": "雀松朱司,",
+    "description": "雀松朱司"
+  },
+  "麒ヶ島宗麟": {
+    "prefix": ["voicevox-麒ヶ島宗麟","kigasima-sourin",]
+    "body": "麒ヶ島宗麟,",
+    "description": "麒ヶ島宗麟"
+  },
+  "春歌ナナ": {
+    "prefix": ["voicevox-春歌ナナ","haruka-nana",]
+    "body": "春歌ナナ,",
+    "description": "春歌ナナ"
+  },
+  "猫使アル": {
+    "prefix": ["voicevox-猫使アル","nekotuka-aru",]
+    "body": "猫使アル${1:option},",
+    "description": "猫使アル"
+  },
+  "猫使ビィ": {
+    "prefix": ["voicevox-猫使ビィ","nekotuka-bixi",]
+    "body": "猫使ビィ${1:option},",
+    "description": "猫使ビィ"
+  },
+  "中国うさぎ": {
+    "prefix": ["voicevox-中国うさぎ","tyuugoku-usagi",]
+    "body": "中国うさぎ${1:option},",
+    "description": "中国うさぎ"
+  },
+  "栗田まろん": {
+    "prefix": ["voicevox-栗田まろん","kurita-maron",]
+    "body": "栗田まろん,",
+    "description": "栗田まろん"
+  },
+  "あいえるたん": {
+    "prefix": ["voicevox-あいえるたん","aierutan",]
+    "body": "あいえるたん,",
+    "description": "あいえるたん"
+  },
+  "満別花丸": {
+    "prefix": ["voicevox-満別花丸","mannbetsu-hanamaru",]
+    "body": "満別花丸${1:option},",
+    "description": "満別花丸"
+  },
+  "琴詠ニア": {
+    "prefix": ["voicevox-琴詠ニア","kotoyomi-nia",]
+    "body": "琴詠ニア${1:option},",
+    "description": "琴詠ニア"
+  },
 }
