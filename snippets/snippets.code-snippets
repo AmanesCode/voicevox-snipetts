@@ -30,7 +30,7 @@
     "description": "音声オプション(ヒソヒソ)"
   },
   "四国めたん": {
-    "prefix": ["voicevox-四国めたん","shikoku-metan",]
+    "prefix": ["voicevox-四国めたん","sikoku-metan",]
     "body": "四国めたん${1:option},",
     "description": "四国めたん"
   },
@@ -60,7 +60,7 @@
     "description": "玄野武宏"
   },
   "白上虎太郎": {
-    "prefix": ["voicevox-白上虎太郎","shirakami-kotarou",]
+    "prefix": ["voicevox-白上虎太郎","sirakami-kotarou",]
     "body": "白上虎太郎${1:option},",
     "description": "白上虎太郎"
   },
