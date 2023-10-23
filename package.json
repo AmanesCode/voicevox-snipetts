@@ -2,7 +2,7 @@
   "name": "voicevox-snipetts",
   "displayName": "voicevox-snipetts",
   "description": "VOICEVOXに実装されているキャラのスニペッツを追加します。原稿作成などに使えます。",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.83.0"
   },
