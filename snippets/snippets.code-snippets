@@ -15,7 +15,7 @@
     "description": "音声オプション(ささやき)"
   },
   "音声オプション(ツンツン)": {
-    "prefix": ["voicevox-音声オプション(ツンツン)","voicevox-voice-option-tuntun"]
+    "prefix": ["voicevox-音声オプション(ツンツン)","voicevox-voice-option-tunntunn"]
     "body": ["ツンツン"],
     "description": "音声オプション(ツンツン)"
   },
